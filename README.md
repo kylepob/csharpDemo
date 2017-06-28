@@ -1,2 +1,2 @@
 # csharpDemo
-Demo csharp repository
+C# demo repository
